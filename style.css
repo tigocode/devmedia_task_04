@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+div {
+  text-align: center;
+  background-color: #f5f5f5;
+  border-top: 1px solid #e5e5e5;
+  padding: 50px;
+}
+img {
+  width: 190px;
+}
+h1, h2, h3 {
+  font-family: 'Tahoma', serif;
+  text-align: center;
+}
+p {
+  width: 930px;
+  font-family: 'Tahoma', serif;
+  text-align: center;
+  line-height: 28px;
+  margin: 15px auto 30px auto;
+}
+a {
+  font-family: 'Tahoma', serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #49b970;
+  color: #ffffff;
+  border-radius: 25px;
+  
+  padding: 10px 30px;
+}
+span {
+  font-family: 'Tahoma', serif;
+  font-weight: bold;
+}
